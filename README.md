@@ -3,5 +3,5 @@
 Projeto de aprendizagem Git/GitHub 🦸‍♀️
 
 ### Links úteis:
-[Preciso achar algum código do .MD](https://www.markdownguide.org) (Same tab)<br> 
+[Preciso achar algum código do .MD](https://www.markdownguide.org)
 
