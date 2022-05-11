@@ -1,0 +1,12 @@
+Códigos bash
+
+git status (Mostra se o arquivo está em stage)
+git init (famoso)
+git add * ou . (Ainda não tenho certeza qual funcionalidade)
+git config --global (alterar configs globalmente)
+git config --list (Lista de configs)
+git remote add "apelido" "url" (dar apelidinho a url de push)
+git remote -v (lista desses apelidin)
+git push "apelido"/"url" master
+git commit -m "mensagem" (-m é flag de mensagem)
+
