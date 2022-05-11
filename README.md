@@ -1,2 +1,6 @@
-# primeiro-repositorio-desafio-decolatech
-Projeto de aprendizagem Git/GitHub
+# DecolaTech - Primeiro repositório 🥇
+
+Projeto de aprendizagem Git/GitHub 🦸‍♀️
+
+### Links úteis:
+[Preciso achar algum código do .MD](https://www.markdownguide.org)
